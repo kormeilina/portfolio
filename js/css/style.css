@@ -1,0 +1,5 @@
+.operlay {
+    position: fixed;
+    background-color: black;
+    opacity: 0;
+}
